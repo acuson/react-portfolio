@@ -1,4 +1,4 @@
-# My Portfolio (Updated)
+# My Portfolio (React.js)
 
 ![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
 
