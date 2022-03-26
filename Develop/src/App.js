@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 // Function to return components
 function App() {
-  return <Header />, <Navigation />, <Project />, <Footer />;
+  return (<div><Header /> <Navigation /> <Project /> <Footer /></div>);
 }
 
 export default App;
