@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 function Header() {
-    const [header, setHeader] = useState('Alyssa Cuson');
 
     return(
         <div><header></header></div>

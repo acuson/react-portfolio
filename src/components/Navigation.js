@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 function Navigation() {
-    const [navigation, setNavigation] = useState('Alyssa Cuson');
+    // const [navigation, setNavigation] = useState('Alyssa Cuson');
 
     return(
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
